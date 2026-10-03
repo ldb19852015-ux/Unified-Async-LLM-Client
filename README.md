@@ -11,5 +11,5 @@ Cliente unificado, asíncrono y desacoplado para interactuar con modelos de leng
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/unified-async-llm.git](https://github.com/tu-usuario/unified-async-llm.git)
+   git clone [https://github.com/ldb19852015-ux/Unified-Async-LLM-Client](https://github.com/ldb19852015-ux/Unified-Async-LLM-Client.git)
    cd unified-async-llm
